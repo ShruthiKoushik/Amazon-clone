@@ -1,0 +1,1 @@
+This is a clone of amazon, with the knowledge of STYLING in CSS.
